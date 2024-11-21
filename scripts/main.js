@@ -5,6 +5,6 @@ myImage.onclick = () => {
   if (mySrc === "images/firefox.svg") {
     myImage.setAttribute("src", "images/firefox2.png");
   } else {
-    myImage.setAttribute("src", "images/firefox.svg");
+    myImage.setAttribute("src", "images/firefox.png");
   }
 };
